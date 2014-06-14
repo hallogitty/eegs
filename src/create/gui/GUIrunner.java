@@ -12,7 +12,7 @@ public class GUIrunner {
 		SwingFrame starter123;
 		//starter123.start();
 		
-		System.out.println("This is a change");
+		System.out.println("This is a change for Version 1.1");
 		
 	}
 
